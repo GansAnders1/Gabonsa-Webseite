@@ -101,9 +101,9 @@ export default function KontaktPage() {
               height: 280px !important;
               left: -96px !important;
               right: auto !important;
-              top: 286px !important;
+              top: -72px !important;
               bottom: auto !important;
-              opacity: 0.28 !important;
+              opacity: 0.52 !important;
             }
           }
         `}
