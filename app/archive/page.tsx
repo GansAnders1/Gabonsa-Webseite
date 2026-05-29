@@ -339,7 +339,7 @@ export default function ArchivePage() {
       >
         <img
           src={lineUpImageSectionSettings.imageSrc}
-          alt="Gabonsa Archive Line-Up"
+          alt="Gabonsa Archiv Line-Up"
           style={{
             width: lineUpImageSectionSettings.imageWidth,
             maxWidth: lineUpImageSectionSettings.imageMaxWidth,

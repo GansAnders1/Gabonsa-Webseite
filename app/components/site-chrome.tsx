@@ -18,7 +18,7 @@ const headerLinks: NavLink[] = [
   { href: "/line-up", label: "Line-Up" },
   { href: "/faq", label: "FAQ" },
   { href: "/ueber-uns", label: "Über uns" },
-  { href: "/archive", label: "Archive" },
+  { href: "/archive", label: "Archiv" },
   { href: "/partner", label: "Partner" },
   {
     href: "https://forms.gle/iv6jVRm3cU1yua9c8",
@@ -32,7 +32,7 @@ const mobileBottomRowOne: NavLink[] = [
   { href: "/line-up", label: "Line-Up" },
   { href: "/faq", label: "FAQ" },
   { href: "/ueber-uns", label: "Über uns" },
-  { href: "/archive", label: "Archive" },
+  { href: "/archive", label: "Archiv" },
 ];
 
 const mobileBottomRowTwo: NavLink[] = [
@@ -69,7 +69,7 @@ const footerNavOne: NavLink[] = [
 const footerNavTwo: NavLink[] = [
   { href: "/ueber-uns", label: "Werte" },
   { href: "/ueber-uns", label: "Über uns" },
-  { href: "/archive", label: "Archive" },
+  { href: "/archive", label: "Archiv" },
   { href: "/kontakt", label: "Kontakt" },
   { href: "/impressum", label: "Impressum" },
 ];
@@ -89,7 +89,7 @@ const footerNavThree: NavLink[] = [
 ];
 
 const mobileFooterRowOne: NavLink[] = [
-  { href: "/archive", label: "Archive" },
+  { href: "/archive", label: "Archiv" },
   { href: "/partner", label: "Partner" },
   { href: "/kontakt", label: "Kontakt" },
   {

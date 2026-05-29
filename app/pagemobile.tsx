@@ -56,7 +56,7 @@ export default function Home() {
     { href: "/line-up", label: "Line-Up" },
     { href: "/faq", label: "FAQ" },
     { href: "/ueber-uns", label: "Über uns" },
-    { href: "/archive", label: "Archive" },
+    { href: "/archive", label: "Archiv" },
     { href: "/partner", label: "Partner" },
     {
       href: "https://forms.gle/iv6jVRm3cU1yua9c8",
@@ -70,7 +70,7 @@ export default function Home() {
     { href: "/line-up", label: "Line-Up" },
     { href: "/faq", label: "FAQ" },
     { href: "/ueber-uns", label: "Über uns" },
-    { href: "/archive", label: "Archive" },
+    { href: "/archive", label: "Archiv" },
   ];
 
   const mobileBottomRowTwo: NavLink[] = [
@@ -163,7 +163,7 @@ export default function Home() {
   // BEDIENFELD: BILD 4 SCHRIFTZUG
   // =========================
   const imageFourTextSettings = {
-    text: "Archive",
+    text: "Archiv",
     link: "/archive",
     external: false,
     color: "#EDFCDF",
@@ -218,7 +218,7 @@ export default function Home() {
   const footerNavTwo: NavLink[] = [
     { href: "/ueber-uns", label: "Werte" },
     { href: "/ueber-uns", label: "Über uns" },
-    { href: "/archive", label: "Archive" },
+    { href: "/archive", label: "Archiv" },
     { href: "/kontakt", label: "Kontakt" },
     { href: "/impressum", label: "Impressum" },
   ];
@@ -238,7 +238,7 @@ export default function Home() {
   ];
 
   const mobileFooterRowOne: NavLink[] = [
-    { href: "/archive", label: "Archive" },
+    { href: "/archive", label: "Archiv" },
     { href: "/partner", label: "Partner" },
     { href: "/kontakt", label: "Kontakt" },
     {
