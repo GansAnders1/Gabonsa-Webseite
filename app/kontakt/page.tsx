@@ -97,13 +97,13 @@ export default function KontaktPage() {
 
           @media (max-width: 767px) {
             .contact-bg-mark {
-              width: 280px !important;
-              height: 280px !important;
-              left: -96px !important;
+              width: 315px !important;
+              height: 315px !important;
+              left: -118px !important;
               right: auto !important;
-              top: 36px !important;
+              top: -28px !important;
               bottom: auto !important;
-              opacity: 0.38 !important;
+              opacity: 0.3 !important;
             }
           }
         `}
