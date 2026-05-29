@@ -306,33 +306,33 @@ export default function PartnerPage() {
 
           @media (max-width: 767px) {
             .partner-bg-mark-1 {
-              width: 340px !important;
-              height: 340px !important;
+              width: 250px !important;
+              height: 250px !important;
               left: auto !important;
-              right: -82px !important;
-              top: -70px !important;
+              right: -42px !important;
+              top: 276px !important;
               bottom: auto !important;
-              opacity: 0.38 !important;
+              opacity: 0.36 !important;
             }
 
             .partner-bg-mark-2 {
-              width: 340px !important;
-              height: 340px !important;
-              left: -118px !important;
+              width: 560px !important;
+              height: 560px !important;
+              left: -320px !important;
               right: auto !important;
-              top: 530px !important;
+              top: 430px !important;
               bottom: auto !important;
-              opacity: 0.30 !important;
+              opacity: 0.34 !important;
             }
 
             .partner-bg-mark-3 {
-              width: 330px !important;
-              height: 330px !important;
+              width: 360px !important;
+              height: 360px !important;
               left: auto !important;
-              right: -82px !important;
+              right: -20px !important;
               top: auto !important;
-              bottom: 76px !important;
-              opacity: 0.40 !important;
+              bottom: 36px !important;
+              opacity: 0.36 !important;
             }
 
             .partner-logo-card {
