@@ -331,7 +331,7 @@ export default function PartnerPage() {
               left: auto !important;
               right: -110px !important;
               top: auto !important;
-              bottom: -80px !important;
+              bottom: -120px !important;
               opacity: 0.36 !important;
             }
 
