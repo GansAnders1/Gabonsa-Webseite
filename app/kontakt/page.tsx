@@ -69,7 +69,7 @@ export default function KontaktPage() {
     bottom: "160px",
     color: "#383F37",
     rotation: "-14deg",
-    opacity: 0.11,
+    opacity: 0.16,
   };
 
   // =========================
@@ -101,9 +101,9 @@ export default function KontaktPage() {
               height: 280px !important;
               left: -96px !important;
               right: auto !important;
-              top: -72px !important;
+              top: 36px !important;
               bottom: auto !important;
-              opacity: 0.52 !important;
+              opacity: 0.38 !important;
             }
           }
         `}
