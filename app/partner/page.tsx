@@ -306,11 +306,11 @@ export default function PartnerPage() {
 
           @media (max-width: 767px) {
             .partner-bg-mark-1 {
-              width: 250px !important;
-              height: 250px !important;
+              width: 305px !important;
+              height: 305px !important;
               left: auto !important;
-              right: -42px !important;
-              top: 276px !important;
+              right: -58px !important;
+              top: 222px !important;
               bottom: auto !important;
               opacity: 0.36 !important;
             }
@@ -318,7 +318,7 @@ export default function PartnerPage() {
             .partner-bg-mark-2 {
               width: 560px !important;
               height: 560px !important;
-              left: -320px !important;
+              left: -168px !important;
               right: auto !important;
               top: 430px !important;
               bottom: auto !important;
@@ -326,12 +326,12 @@ export default function PartnerPage() {
             }
 
             .partner-bg-mark-3 {
-              width: 360px !important;
-              height: 360px !important;
+              width: 500px !important;
+              height: 500px !important;
               left: auto !important;
-              right: -20px !important;
+              right: -110px !important;
               top: auto !important;
-              bottom: 36px !important;
+              bottom: -108px !important;
               opacity: 0.36 !important;
             }
 
