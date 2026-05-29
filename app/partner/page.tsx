@@ -318,9 +318,9 @@ export default function PartnerPage() {
             .partner-bg-mark-2 {
               width: 560px !important;
               height: 560px !important;
-              left: -168px !important;
+              left: -232px !important;
               right: auto !important;
-              top: 430px !important;
+              top: 620px !important;
               bottom: auto !important;
               opacity: 0.34 !important;
             }
@@ -331,7 +331,7 @@ export default function PartnerPage() {
               left: auto !important;
               right: -110px !important;
               top: auto !important;
-              bottom: -108px !important;
+              bottom: -230px !important;
               opacity: 0.36 !important;
             }
 
