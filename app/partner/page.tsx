@@ -248,6 +248,13 @@ export default function PartnerPage() {
       logoMaxWidth: "82%",
       logoMaxHeight: "86px",
     },
+    {
+      name: "Halle 5",
+      logo: "/partner-sponsor-halle-5.png",
+      link: "https://www.instagram.com/halle5_ibk/",
+      logoMaxWidth: "145%",
+      logoMaxHeight: "118px",
+    },
   ];
 
   // =========================
