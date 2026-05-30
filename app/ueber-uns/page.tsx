@@ -213,14 +213,16 @@ Es ist ein Ort, an dem Gemeinschaft nicht nur mitgedacht, sondern aktiv hergeste
 
           @media (max-width: 767px) {
             .about-bg-mark-1 {
-              width: 700px !important;
-              height: 700px !important;
-              left: -370px !important;
+              width: 820px !important;
+              height: 820px !important;
+              left: -335px !important;
               right: auto !important;
-              top: 1040px !important;
+              top: 850px !important;
               bottom: auto !important;
               opacity: 0.34 !important;
-              transform: rotate(-12deg) !important;
+              transform: rotate(-48deg) !important;
+              -webkit-mask-size: 820px !important;
+              mask-size: 820px !important;
             }
 
             .about-bg-mark-2 {
@@ -228,7 +230,7 @@ Es ist ein Ort, an dem Gemeinschaft nicht nur mitgedacht, sondern aktiv hergeste
               height: 720px !important;
               left: auto !important;
               right: -430px !important;
-              top: 170px !important;
+              top: 95px !important;
               bottom: auto !important;
               opacity: 0.58 !important;
               transform: rotate(14deg) !important;
