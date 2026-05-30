@@ -215,12 +215,12 @@ Es ist ein Ort, an dem Gemeinschaft nicht nur mitgedacht, sondern aktiv hergeste
             .about-bg-mark-1 {
               width: 820px !important;
               height: 820px !important;
-              left: -335px !important;
+              left: -380px !important;
               right: auto !important;
-              top: 850px !important;
+              top: 700px !important;
               bottom: auto !important;
               opacity: 0.34 !important;
-              transform: rotate(-48deg) !important;
+              transform: rotate(148deg) !important;
               -webkit-mask-size: 820px !important;
               mask-size: 820px !important;
             }
