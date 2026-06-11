@@ -255,6 +255,13 @@ export default function PartnerPage() {
       logoMaxWidth: "145%",
       logoMaxHeight: "118px",
     },
+    {
+      name: "IKB",
+      logo: "/partner-sponsor-ikb.png",
+      link: "https://www.ikb.at/",
+      logoMaxWidth: "118%",
+      logoMaxHeight: "88px",
+    },
   ];
 
   // =========================
