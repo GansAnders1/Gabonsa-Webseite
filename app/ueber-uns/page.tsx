@@ -188,8 +188,8 @@ Es ist ein Ort, an dem Gemeinschaft nicht nur mitgedacht, sondern aktiv hergeste
     },
     {
       number: "05",
-      title: "Konsens statt Routine.",
-      text: "Frag, wenn du dir nicht sicher bist. Halte dich zurück, wenn jemand zurückhält. Tanzfläche, Bar, Camping — überall gilt: ja heißt ja, alles andere ist nein.",
+      title: "Konsens ist Pflicht.",
+      text: "Nur ein klares Ja ist ein Ja. Alles andere bedeutet Nein! Achte und respektiere die Grenzen deines Gegenübers überall und zu jeder Zeit.",
     },
     {
       number: "06",
